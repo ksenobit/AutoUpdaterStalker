@@ -1,1 +1,0 @@
-This is autoUpdater for STALKER. There is no build.
